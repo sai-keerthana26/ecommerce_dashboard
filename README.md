@@ -22,7 +22,7 @@ Provides **KPIs, trends, top products, and customer insights** in an intuitive, 
 ![KPI Cards](images/kpi.png)
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](images/monthly-revenue.png)
+![Monthly Revenue Trend](images/country-revenue.png)
 
 ### Top Products
 ![Top Products](images/products.png)
