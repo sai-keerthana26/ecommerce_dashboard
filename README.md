@@ -14,22 +14,6 @@ Provides **KPIs, trends, top products, and customer insights** in an intuitive, 
 - **Filters:** Country and date range selection  
 - **Export Data:** Download filtered dataset as CSV  
 - **Tabs:** Organized sections for Overview, Products, Customers
-
----
-
-## Screenshots
-### KPI Cards
-[KPI Cards](images/kpi.png)
-
-### Monthly Revenue Trend
-![Monthly Revenue Trend](images/country-revenue.png)
-
-### Top Products
-![Top Products](images/products.png)
-
-### Top Customers
-![Top Customers](images/customers.png)
-
 ---
 
 ## Dataset
