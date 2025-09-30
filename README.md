@@ -1,4 +1,3 @@
-````markdown
 # E-commerce Analytics Dashboard
 
 ## Overview
@@ -42,7 +41,6 @@ pip install pandas streamlit plotly
 streamlit run ecommerce_dashboard.py
 ```
 
----
 
 ## Technologies
 
