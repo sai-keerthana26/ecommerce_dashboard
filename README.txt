@@ -1,7 +1,3 @@
-Here’s a **concise, GitHub-ready README** for your E-commerce Analytics Dashboard project. You can save it as `README.md` in your project folder.
-
----
-
 ````markdown
 # E-commerce Analytics Dashboard
 
